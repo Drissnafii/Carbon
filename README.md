@@ -1,4 +1,3 @@
-```markdown
 # Carbon: A Simple PHP API Extension for DateTime
 
 This presentation will introduce **Carbon**, a powerful PHP library that makes working with dates and times easier and more intuitive. We'll explore its features through interactive examples that you can try out during the session.
